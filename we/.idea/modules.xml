@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/we.iml" filepath="$PROJECT_DIR$/.idea/we.iml" />
+    </modules>
+  </component>
+  <component name="StatisticsApplicationUsages">
+    <group name="vcs">
+      <project id="prometeo" values="Git" />
+      <project id="lunar-cloud" values="Git" />
+      <project id="websoc_chat" values="Git" />
+    </group>
+    <group name="module type">
+      <project id="testing_frappe" values="PYTHON_MODULE" />
+      <project id="websoc_erp" values="PYTHON_MODULE" />
+      <project id="websocerp" values="PYTHON_MODULE" />
+      <project id="tornado_testing_examples" values="PYTHON_MODULE" />
+      <project id="prometeo" values="PYTHON_MODULE" />
+      <project id="tornado_weber_env" values="PYTHON_MODULE" />
+      <project id="websoc_erp_system" values="PYTHON_MODULE" />
+      <project id="eveweber" values="PYTHON_MODULE" />
+      <project id="lunar-cloud" values="PYTHON_MODULE" />
+      <project id="en" values="PYTHON_MODULE" />
+      <project id="websoc_chat" values="PYTHON_MODULE" />
+      <project id="working_websoc_erp" values="PYTHON_MODULE" />
+      <project id="frappe-bench" values="PYTHON_MODULE" />
+      <project id="werp" values="PYTHON_MODULE" />
+    </group>
+    <group name="py-packages">
+      <project id="testing_frappe" values="sse,mongoengine,gevent-socketio,djangular,gunicorn,gevent,django-sse,easy_install,redis" />
+      <project id="websoc_erp" values="mongoengine,gevent-socketio,gunicorn,redis,sse,gevent,easy_install,django-sse,djangular" />
+      <project id="websocerp" values="djangular,sse,gevent-socketio,gevent,redis,django-sse,easy_install,gunicorn,mongoengine" />
+      <project id="tornado_testing_examples" values="redis,gevent-socketio,gunicorn,gunicorn,gevent-socketio,djangular,sse,gevent,djangular,django-sse,redis,easy_install,mongoengine,easy_install,django-sse,mongoengine,gevent,sse" />
+      <project id="prometeo" values="gevent,django-sse,sse,gunicorn,djangular,redis,easy_install,mongoengine,gevent-socketio" />
+      <project id="tornado_weber_env" values="gevent,mongoengine,gunicorn,easy_install,redis,django-sse,sse,gevent-socketio,djangular" />
+      <project id="websoc_erp_system" values="gevent,mongoengine,easy_install,sse,gevent-socketio,redis,gunicorn,djangular,django-sse" />
+      <project id="eveweber" values="gunicorn,mongoengine,sse,gevent-socketio,gevent,easy_install,django-sse,djangular,redis" />
+      <project id="lunar-cloud" values="djangular,sse,gevent,redis,easy_install,gunicorn,mongoengine,gevent-socketio,django-sse" />
+      <project id="en" values="sse,djangular,gevent-socketio,easy_install,gunicorn,redis,gevent,mongoengine,django-sse" />
+      <project id="websoc_chat" values="sse,redis,gevent,easy_install,gunicorn,sse,djangular,easy_install,mongoengine,mongoengine,djangular,django-sse,gunicorn,gevent-socketio,redis,django-sse,gevent,gevent-socketio" />
+      <project id="working_websoc_erp" values="mongoengine,django-sse,easy_install,gevent,gunicorn,sse,redis,gevent-socketio,djangular" />
+      <project id="frappe-bench" values="easy_install,gevent-socketio,redis,mongoengine,gunicorn,sse,gevent,django-sse,djangular" />
+      <project id="werp" values="gevent,gunicorn,django-sse,djangular,easy_install,sse,gevent-socketio,mongoengine,redis" />
+    </group>
+    <group name="file-type">
+      <project id="testing_frappe" values="ReST,XML,UNKNOWN,PATCH,Images,C++,SQL files,Python,HTML,PLAIN_TEXT" />
+      <project id="websoc_erp" values="SQL files,Images,PLAIN_TEXT,Native,C++,HTML,ReST,PATCH,UNKNOWN,Python,XML,ARCHIVE" />
+      <project id="websocerp" values="XML,Images,UNKNOWN,PLAIN_TEXT,HTML,PATCH,ReST,Python,SQL files,C++" />
+      <project id="tornado_testing_examples" values="PATCH,PLAIN_TEXT,Python,C++,XML,Images,UNKNOWN,HTML,ReST,SQL files" />
+      <project id="prometeo" values="HTML,Python,UNKNOWN,XML,Images,PLAIN_TEXT" />
+      <project id="tornado_weber_env" values="XML,UNKNOWN" />
+      <project id="websoc_erp_system" values="Images,PATCH,HTML,Python,ReST,XML,SQL files,UNKNOWN,PLAIN_TEXT,C++" />
+      <project id="eveweber" values="UNKNOWN,XML" />
+      <project id="lunar-cloud" values="XML,ReST,HTML,Python,UNKNOWN,Images,PLAIN_TEXT" />
+      <project id="en" values="Images,DTD,HTML,ARCHIVE,UNKNOWN,PLAIN_TEXT,XML,Python,Perl,PATCH,ReST,Native,C++" />
+      <project id="websoc_chat" values="SQL files,PLAIN_TEXT,Images,XML,UNKNOWN,HTML,PATCH,ReST,C++,Python" />
+      <project id="working_websoc_erp" values="C++,PATCH,XML,ReST,Images,UNKNOWN,SQL files,PLAIN_TEXT,HTML,Python" />
+      <project id="frappe-bench" values="Python,ReST,PATCH,HTML,UNKNOWN,Images,C++,XML,PLAIN_TEXT" />
+      <project id="werp" values="SQL files,ReST,PLAIN_TEXT,C++,PATCH,Python,HTML,UNKNOWN,XML,Images" />
+    </group>
+    <group name="py-interpreter">
+      <project id="testing_frappe" values="Python 2.7.6" />
+      <project id="websoc_erp" values="Python 2.7.6" />
+      <project id="websocerp" values="Python 2.7.6" />
+      <project id="tornado_testing_examples" values="Python 2.7.6,Python 2.7.6" />
+      <project id="prometeo" values="Python 2.7.6" />
+      <project id="tornado_weber_env" values="Python 2.7.6" />
+      <project id="websoc_erp_system" values="Python 2.7.6" />
+      <project id="eveweber" values="Python 2.7.6" />
+      <project id="lunar-cloud" values="Python 2.7.6" />
+      <project id="en" values="Python 2.7.6" />
+      <project id="websoc_chat" values="Python 2.7.6,Python 2.7.6" />
+      <project id="working_websoc_erp" values="Python 2.7.6" />
+      <project id="frappe-bench" values="Python 2.7.6" />
+      <project id="werp" values="Python 2.7.6" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="23" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Font" count="1" />
+      <entry feature="ideaapp.started" count="88" />
+    </counts>
+  </component>
+</project>
+
